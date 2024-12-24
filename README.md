@@ -13,5 +13,9 @@ The project is organized with proper folder structure (routes, models, controlle
 ## Video 
 
 
+
+https://github.com/user-attachments/assets/26993de0-82c0-44d5-8386-636648c1f4b6
+
+
 https://github.com/user-attachments/assets/48cb37e4-1d2a-4d13-b544-b235d2444954
 
